@@ -17,8 +17,8 @@ function findLargest($num1, $num2, $num3) {
 
 // Example usage
 $num1 = 10;
-$num2 = 5;
-$num3 = 8;
+$num2 = 20;
+$num3 = 30;
 
 $largestNumber = findLargest($num1, $num2, $num3);
 echo "The largest number is: " . $largestNumber;
